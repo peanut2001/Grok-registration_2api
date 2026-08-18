@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360" role="img" aria-labelledby="title desc">
   <title id="title">GitHub star history for peanut2001/Grok-registration_2api</title>
-  <desc id="desc">Cumulative GitHub stars from 2026-08-12 to 2026-08-15; current total 3.</desc>
+  <desc id="desc">Cumulative GitHub stars from 2026-08-12 to 2026-08-17; current total 4.</desc>
   <style>
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; letter-spacing: 0; }
     .title { fill: #f0f1ed; font-size: 18px; font-weight: 600; }
@@ -17,11 +17,11 @@
   <rect x="18" y="18" width="864" height="324" rx="4" fill="#20211e" stroke="#4a4c46" />
   <text class="title" x="66" y="45">GitHub star history</text>
   <text class="repo" x="866" y="44" text-anchor="end">peanut2001/Grok-registration_2api</text>
-  <line class="grid" x1="66" y1="306.00" x2="866" y2="306.00" /><line class="grid" x1="66" y1="228.00" x2="866" y2="228.00" /><line class="grid" x1="66" y1="150.00" x2="866" y2="150.00" /><line class="grid" x1="66" y1="72.00" x2="866" y2="72.00" />
-  <text class="axis" x="54" y="310.00" text-anchor="end">0</text><text class="axis" x="54" y="232.00" text-anchor="end">1</text><text class="axis" x="54" y="154.00" text-anchor="end">2</text><text class="axis" x="54" y="76.00" text-anchor="end">3</text><text class="axis" x="66.00" y="333" text-anchor="start">08-12 08:13</text><text class="axis" x="266.00" y="333" text-anchor="middle">08-13 00:24</text><text class="axis" x="466.00" y="333" text-anchor="middle">08-13 16:35</text><text class="axis" x="666.00" y="333" text-anchor="middle">08-14 08:46</text><text class="axis" x="866.00" y="333" text-anchor="end">08-15 00:57</text>
-  <path class="area" d="M 66.00 306.00 L 592.22 228.00 L 645.83 150.00 L 866.00 72.00 L 866.00 306 L 66.00 306 Z" />
-  <path class="line" d="M 66.00 306.00 L 592.22 228.00 L 645.83 150.00 L 866.00 72.00" />
+  <line class="grid" x1="66" y1="306.00" x2="866" y2="306.00" /><line class="grid" x1="66" y1="247.50" x2="866" y2="247.50" /><line class="grid" x1="66" y1="189.00" x2="866" y2="189.00" /><line class="grid" x1="66" y1="130.50" x2="866" y2="130.50" /><line class="grid" x1="66" y1="72.00" x2="866" y2="72.00" />
+  <text class="axis" x="54" y="310.00" text-anchor="end">0</text><text class="axis" x="54" y="251.50" text-anchor="end">1</text><text class="axis" x="54" y="193.00" text-anchor="end">2</text><text class="axis" x="54" y="134.50" text-anchor="end">3</text><text class="axis" x="54" y="76.00" text-anchor="end">4</text><text class="axis" x="66.00" y="333" text-anchor="start">2026-08-12</text><text class="axis" x="266.00" y="333" text-anchor="middle">2026-08-13</text><text class="axis" x="466.00" y="333" text-anchor="middle">2026-08-14</text><text class="axis" x="666.00" y="333" text-anchor="middle">2026-08-16</text><text class="axis" x="866.00" y="333" text-anchor="end">2026-08-17</text>
+  <path class="area" d="M 66.00 306.00 L 347.57 247.50 L 376.25 189.00 L 494.06 130.50 L 866.00 72.00 L 866.00 306 L 66.00 306 Z" />
+  <path class="line" d="M 66.00 306.00 L 347.57 247.50 L 376.25 189.00 L 494.06 130.50 L 866.00 72.00" />
   <circle class="dot" cx="866.00" cy="72.00" r="5" />
-  <text class="value" x="854" y="88.00" text-anchor="end">3 stars</text>
+  <text class="value" x="854" y="88.00" text-anchor="end">4 stars</text>
 
 </svg>
